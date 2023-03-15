@@ -1,2 +1,0 @@
-{ "Lesson": "Git"
-  "Name": "Tatiana"}
